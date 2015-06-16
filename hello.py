@@ -1,5 +1,5 @@
 #!/usr/bin/emv python
 
-print "Hello, world!"
-print "Welcome to mydev learngit!"
-#emial:<bython23@yahoo.com>
+#Email:<bython23@yahoo.com>
+print "Hello, everyone!"
+print "Welcome to learngit!"
